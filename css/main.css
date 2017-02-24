@@ -44,7 +44,9 @@ body textarea:required:valid {
 
 input {
   box-shadow: none; }
-
+iframe{
+  border: none;
+}
 .wrapper {
   width: 1204px;
   margin: 0 auto; }
